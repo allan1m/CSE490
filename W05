@@ -33,7 +33,47 @@ Discussion Points:
 •	Research alternative database solutions that may better suit the data storage and retrieval needs of the Community Board App.
 Decisions Made:
 •	Decision 1: Agreed upon the Agile development methodology for the project, emphasizing iterative development cycles and continuous feedback loops.
+
+
 •	Decision 2: Assigned team leads for each major component of the software architecture to ensure clear ownership and accountability.
 Next Meeting:
 •	Date: 02/12/2024
 •	Time: 3:15 PM MST
+
+Training Notes
+
+1.	What advantages as a developer does TDD provide?
+a.	Improved Code Quality:
+•	TDD encourages developers to write cleaner, more modular, and maintainable code by focusing on the desired behavior of the system from the outset.
+b.	Faster Feedback Loop:
+•	With TDD, developers receive immediate feedback on the correctness of their code, allowing them to catch and fix defects early in the development process.
+c.	Enhanced Design:
+•	TDD promotes better software design by forcing developers to think about the interface and interactions between different components before writing the actual code.
+d.	Increased Confidence in Changes:
+•	Developers can confidently make changes or refactor existing code knowing that the existing tests will catch any regressions or unintended side effects.
+e.	Reduced Debugging Time:
+•	TDD helps minimize debugging time by identifying issues at the unit level before they propagate to higher levels of the application.
+
+2.	What steps do I do to implement TDD?
+a.	Write a Failing Test:
+•	Start by writing a unit test that specifies the behavior or functionality you want to implement.
+b.	Write Minimal Production Code:
+•	Write the minimum amount of code necessary to make the failing test pass. This often involves implementing the simplest solution to satisfy the test.
+c.	Run the Test:
+•	Execute the test and verify that it fails as expected due to the absence of the functionality being tested.
+d.	Refactor Code (if necessary):
+•	Refactor the code to improve its design and maintainability while ensuring that all existing tests still pass.
+e.	Repeat:
+•	Repeat the process for each new feature or functionality, continuously iterating between writing failing tests, writing production code, and refactoring.
+
+3.	What tools or software can I use to do unit testing?
+a.	JUnit (Java):
+•	JUnit is a popular unit testing framework for Java applications, providing annotations and assertion methods for writing and executing tests.
+b.	pytest (Python):
+•	pytest is a flexible and powerful testing framework for Python, offering features such as fixtures, parameterization, and built-in support for writing assertions.
+c.	RSpec (Ruby):
+•	RSpec is a behavior-driven development (BDD) framework for Ruby, designed to make writing and executing tests more expressive and readable.
+d.	NUnit (C#/.NET):
+•	NUnit is a unit testing framework for .NET applications, offering features such as parameterized tests, assertions, and test fixtures.
+e.	Mocha (JavaScript):
+•	Mocha is a feature-rich JavaScript testing framework that supports both asynchronous and synchronous testing styles, making it suitable for testing Node.js applications.
