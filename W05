@@ -1,0 +1,39 @@
+Meetings Minutes
+
+Design Document
+Date: 02/08/2024 Time: 9:00 a.m. MST Location: Zoom
+
+Attendees:
+•	Front End Team
+•	Back End Team
+•	Database Team
+
+Agenda:
+1.	Design Document
+2.	Architecture
+
+Discussion Points:
+1. Agenda Item 1:
+•	Discussion: Discuss the current state of the design document, including its completeness, clarity, and adherence to established design principles and standards.
+•	Identify any areas of ambiguity, inconsistency, or potential improvement in the design document.
+•	Discuss any feedback or concerns raised by team members regarding the design document.
+•	Action Items:
+•	Review of the design document and identify any gaps or areas requiring clarification.
+•	Update the design document to address any feedback or suggestions provided during the meeting.
+•	Follow-up meeting to review the revised design document and finalize any outstanding issues or concerns.
+2. Agenda Item 2:
+•	Discussion: Review the current backend architecture proposed for the Community Board App.
+•	Evaluate the scalability, performance, and maintainability aspects of the proposed architecture.
+•	Discuss any potential bottlenecks, security concerns, or architectural trade-offs associated with the chosen approach.
+•	Explore alternative architectures or technologies that may better align with the project requirements and long-term vision.
+•	Consider feedback and input from team members regarding their experiences and expertise in backend development.
+•	Action Items:
+•	Conduct a detailed analysis of the scalability requirements for the Community Board App and propose any necessary adjustments to the backend architecture.
+•	Investigate potential security vulnerabilities in the current backend architecture and recommend measures to mitigate risks.
+•	Research alternative database solutions that may better suit the data storage and retrieval needs of the Community Board App.
+Decisions Made:
+•	Decision 1: Agreed upon the Agile development methodology for the project, emphasizing iterative development cycles and continuous feedback loops.
+•	Decision 2: Assigned team leads for each major component of the software architecture to ensure clear ownership and accountability.
+Next Meeting:
+•	Date: 02/12/2024
+•	Time: 3:15 PM MST
